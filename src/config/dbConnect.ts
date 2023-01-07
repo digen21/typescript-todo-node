@@ -4,7 +4,7 @@ import mongoose from "mongoose";
 dotenv.config();
 
 mongoose.set('strictQuery', true);
-mongoose.connect("mongodb+srv://digen21:Thanksmongo1234@cluster0.9jqwume.mongodb.net/todonode");
+mongoose.connect("");               //Add Your Connection String
 const db = mongoose.connection;
 
 db.on("error", ()=> console.log("DB Connection Error"));
