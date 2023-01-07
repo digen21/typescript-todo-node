@@ -1,7 +1,7 @@
 # typescript-todo-node
 Todo-API-Based-App
 
-#  Getting The All UserData At Admin-Side With Todos
+#  Getting All UserData At Admin-Side With Todos
 #  Todos Are Stored In Different Collection
 #  User Can Add Multiple Todos
 # 1. User Have to Register 2. Have To Login 3. After Login He/She Can Add Todo
